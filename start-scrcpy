@@ -1,0 +1,1 @@
+x11docker --  "--privileged -v /dev/bus/usb:/dev/bus/usb -v /home/j/.android/:/root/.android "  scrcpy
